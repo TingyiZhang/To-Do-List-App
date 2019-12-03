@@ -5,6 +5,7 @@ Two example to-do-list apps, which can creat events and mark as finished or remo
 - Develop OS: MacOS
 - Target OS: iOS
 - Development tool: Xcode 11
+- Swift Language version: 4.2
 - Simulator: iPhone 11 -- 13.2.2
 
 ## React Native part
