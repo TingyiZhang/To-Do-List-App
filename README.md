@@ -30,15 +30,11 @@ Then you will see the EXPO webpage, and click 'Run on iOS simulator' to see the 
 ### Demo
 <img src="https://github.com/TingyiZhang/To-Do-List-app-on-React-Native-and-Swift/blob/master/Swift_todolist/swift_demo.gif">
 
-# References
-- **React Native**
+## References
+### React Native
+- Tutorial: https://facebook.github.io/react-native/docs/getting-started
+- Youtueb video: https://www.youtube.com/watch?v=NuZOwsmzcro&t=377s
 
-Tutorial: https://facebook.github.io/react-native/docs/getting-started
-
-Youtueb video: https://www.youtube.com/watch?v=NuZOwsmzcro&t=377s
-
-- **Swift**
-
-Github opensource code: https://github.com/JoeCodes98/TodoApp
-
-Youtube video: https://www.youtube.com/watch?v=FARhAuwT1TY
+### Swift
+- Github opensource code: https://github.com/JoeCodes98/TodoApp
+- Youtube video: https://www.youtube.com/watch?v=FARhAuwT1TY
