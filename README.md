@@ -1,4 +1,4 @@
-# React Native versus iOS Swift
+# React Native versus Swift
 Two example to-do-list apps, which can creat events and mark as finished or removing them.
 
 ## Intro
@@ -30,14 +30,14 @@ Then you will see the EXPO webpage, and click 'Run on iOS simulator' to see the 
 ### Demo
 <img src="https://github.com/TingyiZhang/To-Do-List-app-on-React-Native-and-Swift/blob/master/Swift_todolist/swift_demo.gif">
 
-# Reference
-- React Native
+# References
+- **React Native**
 
 Tutorial: https://facebook.github.io/react-native/docs/getting-started
 
 Youtueb video: https://www.youtube.com/watch?v=NuZOwsmzcro&t=377s
 
-- Swift
+- **Swift**
 
 Github opensource code: https://github.com/JoeCodes98/TodoApp
 
