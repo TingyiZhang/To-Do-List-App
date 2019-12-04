@@ -8,7 +8,7 @@ Two example to-do-list apps, which can creat events and mark as finished or remo
 - Swift Language version: 4.2
 - Simulator: iPhone 11 -- 13.2.2
 
-## React Native part
+## React Native app
 ### How to run on MacOS
 - Install Xcode
 - Clone this github
@@ -22,7 +22,7 @@ Then you will see the EXPO webpage, and click 'Run on iOS simulator' to see the 
 ### Demo
 <img src="https://github.com/TingyiZhang/To-Do-List-app-on-React-Native-and-Swift/blob/master/RN_todolist/react_demo.gif">
 
-## Swift part
+## Swift app
 ### How to run with Xcode
 - Open Xcode, open project -> swift_todolist.
 - Click build, and the simulator will run automatically.
