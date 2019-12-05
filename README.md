@@ -24,7 +24,7 @@ Then you will see the EXPO webpage, and click 'Run on iOS simulator' to see the 
 
 ## Swift app
 ### How to run with Xcode
-- Open Xcode, open swift_todolist/Todolist/ToDoTutorial/TodoTutorial.xcodeproj.
+- Open Xcode, open ```/swift_todolist/ToDoList/ToDoTutorial/TodoTutorial.xcodeproj```.
 - Click build, and the simulator will run automatically.
 
 ### Demo
